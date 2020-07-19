@@ -103,24 +103,5 @@
 &lt;p&gt;模板简短描述 test&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>测试1</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/gallery/ice_cream/</link>
-      <pubDate>Thu, 22 Feb 2018 21:19:51 +0800</pubDate>
-      
-      <guid>https://github.com/ylvgn/ylvgn.github.io/gallery/ice_cream/</guid>
-      <description>&lt;p&gt;哈哈哈哈哈，简短描述 测试1&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>测试2</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/gallery/test2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://github.com/ylvgn/ylvgn.github.io/gallery/test2/</guid>
-      <description>&lt;p&gt;If you like my open source projects or they can help you. You can buy me a coffee ☕.~&lt;/p&gt;
-&lt;p&gt;哈哈哈哈哈，简短描述 测试2&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>

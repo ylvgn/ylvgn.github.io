@@ -21,14 +21,5 @@
       <description>&lt;p&gt;简短描述 blablabla Test4&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>测试1</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/gallery/ice_cream/</link>
-      <pubDate>Thu, 22 Feb 2018 21:19:51 +0800</pubDate>
-      
-      <guid>https://github.com/ylvgn/ylvgn.github.io/gallery/ice_cream/</guid>
-      <description>&lt;p&gt;哈哈哈哈哈，简短描述 测试1&lt;/p&gt;</description>
-    </item>
-    
   </channel>
 </rss>
