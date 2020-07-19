@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ylvgn &#39;s home</title>
-    <link>https://github.com/ylvgn/ylvgn.github.io/posts/</link>
+    <link>https://github.com/posts/</link>
     <description>Recent content in Posts on ylvgn &#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;&lt;img alt=&#34;知识共享许可协议&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;本作品采用&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by/4.0/&#34;&gt;知识共享署名 4.0 国际许可协议&lt;/a&gt;进行许可。</copyright>
     <lastBuildDate>Sat, 18 Jul 2020 21:37:09 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/ylvgn/ylvgn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test10</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test10/</link>
+      <link>https://github.com/posts/test10/</link>
       <pubDate>Sat, 18 Jul 2020 21:37:09 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test10/</guid>
+      <guid>https://github.com/posts/test10/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test10&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test9</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test9/</link>
+      <link>https://github.com/posts/test9/</link>
       <pubDate>Sat, 18 Jul 2020 21:37:08 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test9/</guid>
+      <guid>https://github.com/posts/test9/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test9&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test8</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test8/</link>
+      <link>https://github.com/posts/test8/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:20 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test8/</guid>
+      <guid>https://github.com/posts/test8/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test8&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test7</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test7/</link>
+      <link>https://github.com/posts/test7/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:18 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test7/</guid>
+      <guid>https://github.com/posts/test7/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test7&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test6</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test6/</link>
+      <link>https://github.com/posts/test6/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:17 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test6/</guid>
+      <guid>https://github.com/posts/test6/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test6&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test5</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test5/</link>
+      <link>https://github.com/posts/test5/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:15 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test5/</guid>
+      <guid>https://github.com/posts/test5/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test5&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test4</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test4/</link>
+      <link>https://github.com/posts/test4/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:14 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test4/</guid>
+      <guid>https://github.com/posts/test4/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test4&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test3</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test3/</link>
+      <link>https://github.com/posts/test3/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:12 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test3/</guid>
+      <guid>https://github.com/posts/test3/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test3&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test2</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test2/</link>
+      <link>https://github.com/posts/test2/</link>
       <pubDate>Sat, 18 Jul 2020 21:35:11 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test2/</guid>
+      <guid>https://github.com/posts/test2/</guid>
       <description>&lt;p&gt;简短描述 blablabla Test2&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://github.com/ylvgn/ylvgn.github.io/posts/test/</link>
+      <link>https://github.com/posts/test/</link>
       <pubDate>Sat, 18 Jul 2020 20:49:58 +0800</pubDate>
       
-      <guid>https://github.com/ylvgn/ylvgn.github.io/posts/test/</guid>
+      <guid>https://github.com/posts/test/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;
 &lt;p&gt;模板简短描述 test&lt;/p&gt;</description>
     </item>
